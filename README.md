@@ -1,0 +1,2 @@
+# EGBot
+EG Bot
